@@ -1,7 +1,7 @@
 # 🚀 SimpelJavaFx
 
 **👤 Made by:** Iqbal Imanudin  
-**🆔 NIM:** 240314  
+**🆔 NIM:** 2403141  
 **🏫 Class:** 3A 
 
 ## 📖 About
