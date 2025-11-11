@@ -20,7 +20,8 @@ Once logged in as admin, you can:
 - 🗑️ Delete data  
 
 ## 🖼️ Screenshot
-*(Add your screenshot here if you want)*  
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9a824381-043e-40bd-bc44-42ac2de56a5c" />
+
 
 ## 🏃 How to Run
 1. Make sure you have **Java 17** installed.  
