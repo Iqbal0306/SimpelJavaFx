@@ -21,11 +21,8 @@ Once logged in as admin, you can:
 
 ## 🖼️ Screenshot
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9a824381-043e-40bd-bc44-42ac2de56a5c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1e704092-a5cb-4a97-8867-a23c909fd798" />
 
-
-## 🏃 How to Run
-1. Make sure you have **Java 17** installed.  
-2. Clone this repository:  
-   ```bash
-   git clone https://github.com/username/repository.git
-
+## 🙏 Thank You!!!
+Thank you for checking out this project!
+- Starkzz3
