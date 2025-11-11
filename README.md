@@ -25,4 +25,4 @@ Once logged in as admin, you can:
 
 ## 🙏 Thank You!!!
 Thank you for checking out this project!
-- Starkzz3
+- STarkZ_3 As Iqbal
